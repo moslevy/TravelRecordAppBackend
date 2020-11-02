@@ -4,7 +4,7 @@
       "access": "anonymous"
     },
     "insert": {
-      "access": "paluchadmin"
+      "access": "anonymous"
     },
     "update": {
       "access": "anonymous"
