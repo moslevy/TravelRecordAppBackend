@@ -4,8 +4,8 @@
 
 
 // This is a base-level Azure Mobile App SDK.
-var express = require('express');
-var azureMobileApps = require('azure-mobile-apps');
+var express = require('express'),
+    azureMobileApps = require('azure-mobile-apps');
 
 // Set up a standard Express app
 var app = express();
